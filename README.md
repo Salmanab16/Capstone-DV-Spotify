@@ -1,4 +1,4 @@
-# Capstone-DV-Spotify
+# Capstone Project - Data Visualization - Spotify
 
 
 Please check the output https://salmanab.shinyapps.io/Capstone-DV-Spotify/ 
